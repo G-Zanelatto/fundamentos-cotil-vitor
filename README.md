@@ -10,8 +10,10 @@ Acredito que a tecnologia tem um papel *transformador* no mundo e quero fazer pa
 - [Python](https://www.python.org/)  
 - C / C++  
 - HTML, CSS e JavaScript  
-- React (aprendendo)  
-- Trabalho em equipe  
+- React.js (aprendendo)  
+- Trabalho em equipe
+- *Node.js* (aprendendo)
+- Zul Code
 
 ## Meu Primeiro Programa
 O código abaixo é um clássico "Olá, Mundo!" na linguagem C, utilizando a função `printf()` para exibir a mensagem na tela.
