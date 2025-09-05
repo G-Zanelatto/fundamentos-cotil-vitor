@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RECEBA</title>
+</head>
+<body>
+    <H1>AQUI VOCÊ VAI RECEBER!!!!</H1>
+    <h2>Pokémon Battle</h2>
+
+</body>
+</html>
